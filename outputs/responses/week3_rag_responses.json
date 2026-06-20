@@ -1,0 +1,149 @@
+[
+  {
+    "query": "What are the most significant litigation risks and legal contingencies for each company?",
+    "candidates": 30,
+    "top_chunks": [
+      {
+        "rank": 1,
+        "company": "Apple",
+        "section": "Business_Overview",
+        "rerank_score": 0.290726,
+        "preview": "significant risks and uncertainties, including distraction of management from current operations, greater-than-expected liabilities and expenses, economic,\npolitical, legal and regulatory challenges a"
+      },
+      {
+        "rank": 2,
+        "company": "Microsoft",
+        "section": "Business_Overview",
+        "rerank_score": -0.128831,
+        "preview": "claims, which could adversely affect our business and results of operations. \nLEGAL, REGULATORY, AND LITIGATION RISKS\nWe are subject to a variety of new, existing, and evolving legal and regulatory re"
+      },
+      {
+        "rank": 3,
+        "company": "Apple",
+        "section": "Legal_Proceedings",
+        "rerank_score": -1.051093,
+        "preview": "The Company is also currently subject to antitrust investigations and litigation in various jurisdictions around the world, which can result in legal proceedings and\nclaims against the Company that co"
+      },
+      {
+        "rank": 4,
+        "company": "Nvidia",
+        "section": "Risk_Factors",
+        "rerank_score": -3.271593,
+        "preview": "•\nOur operating results may be adversely impacted by additional tax liabilities, higher than expected tax rates, changes in tax laws, and other tax-related\nfactors. \n•\nOur business is exposed to the b"
+      },
+      {
+        "rank": 5,
+        "company": "Microsoft",
+        "section": "Business_Overview",
+        "rerank_score": -3.350368,
+        "preview": "offerings, we may experience new and novel legal claims. Adverse outcomes in some or all of these claims may result in significant monetary \ndamages or injunctive relief that could adversely affect ou"
+      },
+      {
+        "rank": 6,
+        "company": "Nvidia",
+        "section": "General",
+        "rerank_score": -6.299269,
+        "preview": "Litigation, Investigation and Settlement Costs\nWe currently are, and will likely continue to be subject to claims, litigation, and other actions, including potential regulatory proceedings, involving "
+      }
+    ],
+    "response": "Here are the most significant litigation risks and legal contingencies for each company based on the provided sources:\n\n**Apple**\n*   The Company is currently subject to antitrust investigations and litigation in various jurisdictions globally, including civil antitrust lawsuits in the U.S. alleging monopolization or attempted monopolization. These proceedings could have a material adverse impact on the Company’s business, results of operations, financial condition, and stock price [Source 3].\n*   The company is exposed to legal and regulatory challenges associated with operating in new businesses, regions, or countries, and some transactions (including investments and acquisitions) are exposed to additional risks [Source 1].\n\n**Microsoft**\n*   The company is subject to a variety of new, existing, and evolving legal and regulatory requirements, which could adversely affect its results of operations [Source 2].\n*   With new offerings, Microsoft may experience new and novel legal claims. Adverse outcomes in these claims could result in significant monetary damages or injunctive relief that might adversely affect the ability to conduct its business [Source 5]. The company is also subject to a wide range of laws, regulations, and legal requirements globally [Source 2].\n\n**Nvidia**\n*   Nvidia's business is exposed to the burden and risks associated with litigation, investigations, and regulatory proceedings [Source 4].\n*   The company is, and will likely continue to be, subject to claims, litigation, and other actions, including potential regulatory proceedings, involving patent and other intellectual property matters, taxes, labor and employment, competition and antitrust, commercial disputes, and goods and services offered by them and third parties [Source 6].\n*   Delaware law, provisions in Nvidia's governing documents, and its agreement with Microsoft could delay or prevent a change in control [Source 4]."
+  },
+  {
+    "query": "Compare the unrecognized tax benefit positions across Apple, Microsoft, and Nvidia.",
+    "candidates": 30,
+    "top_chunks": [
+      {
+        "rank": 1,
+        "company": "Apple",
+        "section": "General",
+        "rerank_score": 3.647098,
+        "preview": "differences.\nApple Inc. | 2025 Form 10-K | 41\nUncertain Tax Positions\nAs of September  27, 2025, the total amount of gross unrecognized tax benefits was $23.2 billion, of which $10.6 billion, if recog"
+      },
+      {
+        "rank": 2,
+        "company": "Apple",
+        "section": "Financial_Statements",
+        "rerank_score": 0.000112,
+        "preview": "account or disclosure to which it relates.\nUncertain Tax Positions\nDescription of the Matter\nAs discussed in Note 7 to the financial statements, the Company is subject to income taxes in the U.S. and\n"
+      },
+      {
+        "rank": 3,
+        "company": "Nvidia",
+        "section": "Income_Tax",
+        "rerank_score": -0.293541,
+        "preview": "period.\nWe recognize the benefit from a tax position only if it is more-likely-than-not that the position would be sustained upon audit based solely on the technical merits\nof the tax position. Our po"
+      },
+      {
+        "rank": 4,
+        "company": "Nvidia",
+        "section": "Financial_Statements",
+        "rerank_score": -1.143766,
+        "preview": "and circumstances. Utilization of tax attributes may also be subject to limitations due to ownership changes and other limitations provided by the Internal\nRevenue Code and similar state and foreign t"
+      },
+      {
+        "rank": 5,
+        "company": "Microsoft",
+        "section": "Income_Tax",
+        "rerank_score": -7.774927,
+        "preview": "datacenter operations; designing, manufacturing, marketing, and selling our other products and services; and income taxes.\nHighlights from fiscal year 2025 compared with fiscal year 2024 included:\n•\nM"
+      },
+      {
+        "rank": 6,
+        "company": "Microsoft",
+        "section": "Business_Overview",
+        "rerank_score": -8.917454,
+        "preview": "6% \n \n \n \n  \n \n \n \n \n \n \n  \n \n \n \n  \n \n \n \n \n \n \n  \nOperating Income\n  $\n128,528    $\n109,433      \n17% \n \n \n \n \n \n \n \n \n \n \n \n  \n \nReportable Segments\nFiscal Year 2025 Compared with Fiscal Year 2024 "
+      }
+    ],
+    "response": "Based on the provided context:\n\n**Apple:**\nAs of September 27, 2025, Apple's total gross unrecognized tax benefits were $23.2 billion, with $10.6 billion of that amount, if recognized, impacting the Company’s effective tax rate [Source 1, Source 2]. As of September 28, 2024, the total gross unrecognized tax benefits were $22.0 billion, of which $10.8 billion would have impacted the effective tax rate [Source 1].\n\n**Microsoft:**\nThe provided context does not contain sufficient information regarding Microsoft's unrecognized tax benefit position.\n\n**Nvidia:**\nNvidia recognizes the benefit from a tax position if it is more-likely-than-not that the position would be sustained upon audit based solely on its technical merits. Their policy is to include interest and penalties related to unrecognized tax benefits as a component of income tax expense [Source 3]. While the context mentions \"A reconciliation of gross unrecognized tax benefits is as follows:\" [Source 4], the specific financial figures for Nvidia's unrecognized tax benefits are not provided."
+  },
+  {
+    "query": "What are the largest contractual purchase obligations and how do they compare?",
+    "candidates": 30,
+    "top_chunks": [
+      {
+        "rank": 1,
+        "company": "Apple",
+        "section": "General",
+        "rerank_score": 1.820704,
+        "preview": "Other Purchase Obligations\nThe Company’s other purchase obligations primarily consist of noncancelable obligations to acquire capital assets, including assets related to product\nmanufacturing, and non"
+      },
+      {
+        "rank": 2,
+        "company": "Apple",
+        "section": "General",
+        "rerank_score": 1.427413,
+        "preview": "obligations”). The Company’s unconditional purchase obligations primarily consist of supplier arrangements, licensed intellectual property and content, and\ndistribution rights. Future payments under u"
+      },
+      {
+        "rank": 3,
+        "company": "Nvidia",
+        "section": "General",
+        "rerank_score": -2.446243,
+        "preview": "purchase commitments. Most of our inventory provisions relate to excess quantities of products, based on our inventory levels and future product purchase\ncommitments compared to assumptions about futu"
+      },
+      {
+        "rank": 4,
+        "company": "Nvidia",
+        "section": "General",
+        "rerank_score": -4.1707,
+        "preview": "(Continued)\nContracts with Multiple Performance Obligations\nOur contracts may contain more than one deliverable, each of which is separately accounted for as a distinct performance obligation. We acco"
+      },
+      {
+        "rank": 5,
+        "company": "Microsoft",
+        "section": "General",
+        "rerank_score": -6.554435,
+        "preview": "•\nThe pattern of delivery (i.e., timing of when revenue is recognized) for each distinct performance obligation.\n•\nIdentification and treatment of contract terms that may impact the timing and amount "
+      },
+      {
+        "rank": 6,
+        "company": "Microsoft",
+        "section": "General",
+        "rerank_score": -8.18313,
+        "preview": "expect to receive in exchange for those products or services. We enter into contracts that can include various combinations of products and \nservices, which are generally capable of being distinct and"
+      }
+    ],
+    "response": "The largest contractual purchase obligations identified in the provided sources are both related to Apple:\n\n1.  **Apple's other purchase obligations** amount to **$14.8 billion** as of September 27, 2025 [Source 1]. These obligations primarily consist of noncancelable commitments to acquire capital assets (including product manufacturing assets), supplier arrangements, licensed intellectual property and content, and distribution rights [Source 1].\n2.  **Apple's unconditional purchase obligations** total **$13.308 billion** as of September 27, 2025 [Source 2]. These primarily consist of supplier arrangements, licensed intellectual property and content, and distribution rights [Source 2].\n\n**Comparison:**\nApple's \"other purchase obligations\" at $14.8 billion are larger than its \"unconditional purchase obligations\" at $13.308 billion.\n\nNvidia mentions \"noncancelable purchase commitments\" but does not provide a specific monetary value to compare [Source 3]. Microsoft's excerpts discuss \"performance obligations\" but do not provide specific figures for purchase obligations [Source 4, Source 5, Source 6]."
+  }
+]
