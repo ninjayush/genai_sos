@@ -2,7 +2,7 @@
 
 The initial poa is sos-poa.docx .
 
-The updated poa(after midterm submission) is sos-poa_updated.docx .
+The updated poa(after midterm submission) is updated_poa.pdf .
 
 The midterm report is midterm_report.pdf .
 

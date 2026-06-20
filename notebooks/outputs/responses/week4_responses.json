@@ -1,0 +1,32 @@
+[
+  {
+    "turn": 1,
+    "query": "What is Apple's total revenue and what are their most significant noted risks?",
+    "structured_answer": {
+      "company_name": "Apple",
+      "total_revenue": "N/A",
+      "debt_obligations": "N/A",
+      "noted_risks": "N/A"
+    }
+  },
+  {
+    "turn": 2,
+    "query": "Now give me the same breakdown for Nvidia. Pay attention to their debt obligations too.",
+    "structured_answer": {
+      "company_name": "Nvidia",
+      "total_revenue": "N/A",
+      "debt_obligations": "N/A",
+      "noted_risks": "N/A"
+    }
+  },
+  {
+    "turn": 3,
+    "query": "Compare the risk profiles of Apple and Nvidia based on what we just discussed.",
+    "structured_answer": {
+      "company_name": "N/A",
+      "total_revenue": "N/A",
+      "debt_obligations": "N/A",
+      "noted_risks": "N/A"
+    }
+  }
+]

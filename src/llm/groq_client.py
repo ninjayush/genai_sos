@@ -21,3 +21,10 @@ def query(prompt):
     )
 
     return response.choices[0].message.content
+
+def get_langchain_llm():
+    from langchain_groq import ChatGroq
+    return ChatGroq(
+        model="llama-3.3-70b-versatile",
+        temperature=0
+    )

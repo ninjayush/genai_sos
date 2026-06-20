@@ -16,3 +16,10 @@ def query(prompt):
     )
 
     return response.text
+
+def get_langchain_llm():
+    from langchain_google_genai import ChatGoogleGenerativeAI
+    return ChatGoogleGenerativeAI(
+        model="gemini-2.5-flash",
+        temperature=0
+    )

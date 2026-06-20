@@ -111,3 +111,19 @@ def collection_stats(persist_dir: str = "outputs/chromadb") -> dict:
         "collection_name": _COLLECTION_NAME,
         "total_chunks":    collection.count(),
     }
+
+def get_langchain_retriever(persist_dir: str = "outputs/chromadb", top_k: int = 5):
+    """Returns a LangChain VectorStoreRetriever for the Chroma collection."""
+    from langchain_chroma import Chroma
+    from langchain_huggingface import HuggingFaceEmbeddings
+
+    embeddings = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
+
+    vectorstore = Chroma(
+        collection_name=_COLLECTION_NAME,
+        persist_directory=persist_dir,
+        embedding_function=embeddings,
+        collection_metadata={"hnsw:space": "cosine"}
+    )
+
+    return vectorstore.as_retriever(search_kwargs={"k": top_k})
